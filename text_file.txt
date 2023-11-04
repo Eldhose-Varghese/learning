@@ -1,1 +1,2 @@
 This is the first learning day.
+This is the second sentence.
